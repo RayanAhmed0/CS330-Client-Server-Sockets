@@ -12,7 +12,7 @@
 
 
 ## Author
-👤 **Rayan Ahmed , **Abdullah Aldosari 
+👤 **Rayan Ahmed** , **Abdullah Aldosari** 
 ## Show your support
 Give a ⭐️ if this project helped you!
 ***
